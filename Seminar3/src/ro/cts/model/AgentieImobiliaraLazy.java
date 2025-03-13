@@ -22,6 +22,7 @@ public class AgentieImobiliaraLazy {
         return agentieImobiliara;
     }
 
+
     public String getSite() {
         return site;
     }

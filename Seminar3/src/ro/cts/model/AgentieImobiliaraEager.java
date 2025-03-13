@@ -8,6 +8,7 @@ public class AgentieImobiliaraEager {
     private float cifraAfaceri;
     private static AgentieImobiliaraEager agentieImobiliaraEager = new AgentieImobiliaraEager("Agentie",10,"agentie.com",120000);
 
+
     private AgentieImobiliaraEager(String nume, int nrAnunturi, String site, float cifraAfaceri) {
         this.nume = nume;
         this.nrAnunturi = nrAnunturi;

@@ -6,6 +6,7 @@ public class Anunt {
     private int nrCamere;
     private int nrAnunt;
 
+
     protected Anunt(String adresa, String proprietar, int nrCamere, int nrAnunt) {
         this.adresa = adresa;
         this.proprietar = proprietar;

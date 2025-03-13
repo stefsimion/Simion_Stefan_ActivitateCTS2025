@@ -4,6 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class AgentieImobiliara {
+
     private String nume;
     private float cifraAfaceri;
 

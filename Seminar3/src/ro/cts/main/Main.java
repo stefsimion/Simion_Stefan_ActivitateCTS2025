@@ -3,6 +3,7 @@ package ro.cts.main;
 import ro.cts.model.AgentieImobiliaraEager;
 import ro.cts.model.AgentieImobiliaraLazy;
 
+
 public class Main {
     public static void main(String[] args) {
         AgentieImobiliaraEager agentieImobiliaraEager = AgentieImobiliaraEager.getAgentieImobiliara();

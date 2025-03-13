@@ -5,6 +5,7 @@ import ro.cts.model.Anunt;
 
 //instanta unica per obiect => regidtry
 
+
 public class MainRegistry {
     public static void main(String[] args) {
         AgentieImobiliara agentie = new AgentieImobiliara("Imobiliare.ro",120000);
