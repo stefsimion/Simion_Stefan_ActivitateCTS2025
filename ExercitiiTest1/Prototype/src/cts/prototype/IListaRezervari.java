@@ -1,2 +1,5 @@
-package cts.prototype;public class IListaRezervari {
+package cts.prototype;
+
+public interface IListaRezervari {
+    IListaRezervari cloneaza();
 }

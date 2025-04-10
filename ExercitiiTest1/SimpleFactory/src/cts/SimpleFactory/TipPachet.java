@@ -1,2 +1,6 @@
-package cts.SimpleFactory;public enum TipPachet {
+package cts.SimpleFactory;
+
+public enum TipPachet {
+    Transport,
+    Cazare
 }

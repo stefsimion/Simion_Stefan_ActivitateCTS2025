@@ -1,2 +1,5 @@
-package cts.Registry;public interface PachetTuristic {
+package cts.Registry;
+
+public interface PachetTuristic {
+    void descriere();
 }

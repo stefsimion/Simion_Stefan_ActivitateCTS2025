@@ -1,37 +1,47 @@
-package cts.BuilderV1;
+package cts.BuilderV2;
 
 public class PachetTransport {
     private boolean hasWiFi;
     private boolean hasAnimale;
     private boolean isFumator;
 
-    public PachetTransport(boolean hasWiFi, boolean hasAnimale, boolean isFumator) {
+    protected PachetTransport(boolean hasWiFi, boolean hasAnimale, boolean isFumator) {
         this.hasWiFi = hasWiFi;
         this.hasAnimale = hasAnimale;
         this.isFumator = isFumator;
     }
 
-    public boolean isHasWiFi() {
+    protected boolean isHasWiFi() {
         return hasWiFi;
     }
 
-    public void setHasWiFi(boolean hasWiFi) {
+    protected void setHasWiFi(boolean hasWiFi) {
         this.hasWiFi = hasWiFi;
     }
 
-    public boolean isHasAnimale() {
+    protected boolean isHasAnimale() {
         return hasAnimale;
     }
 
-    public void setHasAnimale(boolean hasAnimale) {
+    protected void setHasAnimale(boolean hasAnimale) {
         this.hasAnimale = hasAnimale;
     }
 
-    public boolean isFumator() {
+    protected boolean isFumator() {
         return isFumator;
     }
 
-    public void setFumator(boolean fumator) {
+    protected void setFumator(boolean fumator) {
         isFumator = fumator;
+    }
+
+    @Override
+    public String toString() {
+        final StringBuilder sb = new StringBuilder("PachetTransport{");
+        sb.append("hasWiFi=").append(hasWiFi);
+        sb.append(", hasAnimale=").append(hasAnimale);
+        sb.append(", isFumator=").append(isFumator);
+        sb.append('}');
+        return sb.toString();
     }
 }
