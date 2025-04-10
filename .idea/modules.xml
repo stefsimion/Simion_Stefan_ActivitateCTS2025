@@ -16,5 +16,6 @@
       <module fileurl="file://$PROJECT_DIR$/ExercitiiTest1/SimpleFactory/SimpleFactory.iml" filepath="$PROJECT_DIR$/ExercitiiTest1/SimpleFactory/SimpleFactory.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExercitiiTest1/Singleton/Singleton.iml" filepath="$PROJECT_DIR$/ExercitiiTest1/Singleton/Singleton.iml" />
     </modules>
+    </modules>
   </component>
 </project>
