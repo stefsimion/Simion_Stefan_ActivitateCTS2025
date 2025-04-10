@@ -1,33 +1,36 @@
-package cts.BuilderV1;
+package cts.BuilderV2;
 
-public class PachetTransportBuilder implements IBuilder{
-
-    private PachetTransport pachetTransport;
+public class PachetTransportBuilder implements IBuilder {
+    private boolean hasWiFi;
+    private boolean hasAnimale;
+    private boolean isFumator;
 
     public PachetTransportBuilder() {
-        pachetTransport = new PachetTransport(false,false,false);
+        this.hasWiFi = false;
+        this.hasAnimale = false;
+        this.isFumator = false;
     }
 
     @Override
     public PachetTransport build() {
-        return pachetTransport;
+        return new PachetTransport(this.hasWiFi,this.hasAnimale,this.isFumator);
     }
 
     @Override
     public IBuilder setHasWiFi(boolean hasWiFi) {
-        this.pachetTransport.setHasWiFi(hasWiFi);
+        this.hasWiFi = hasWiFi;
         return this;
     }
 
     @Override
     public IBuilder setHasAnimale(boolean hasAnimale) {
-        this.pachetTransport.setHasAnimale(hasAnimale);
+        this.hasAnimale = hasAnimale;
         return this;
     }
 
     @Override
     public IBuilder setFumator(boolean fumator) {
-        this.pachetTransport.setFumator(fumator);
+        this.isFumator = fumator;
         return this;
     }
 }

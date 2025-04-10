@@ -1,2 +1,5 @@
-package cts.fabrici;public enum TipTransport {
+package cts.fabrici;
+
+public enum TipTransport implements TipPachet{
+    TransportTren, TransportAutobuz
 }

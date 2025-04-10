@@ -1,2 +1,4 @@
-package cts.fabrici;public class TipPachet {
+package cts.fabrici;
+
+public interface TipPachet {
 }

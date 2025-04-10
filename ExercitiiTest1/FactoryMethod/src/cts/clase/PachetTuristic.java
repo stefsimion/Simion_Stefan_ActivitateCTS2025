@@ -1,2 +1,5 @@
-package cts.clase;public interface PachetTuristic {
+package cts.clase;
+
+public interface PachetTuristic {
+    void descriere();
 }
