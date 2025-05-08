@@ -1,4 +1,4 @@
-package ro.cts.module;
+package ro.cts.composite.module;
 
 import java.util.ArrayList;
 import java.util.List;

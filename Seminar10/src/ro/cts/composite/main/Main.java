@@ -1,8 +1,8 @@
-package ro.cts.main;
+package ro.cts.composite.main;
 
-import ro.cts.module.Departament;
-import ro.cts.module.Sectie;
-import ro.cts.module.StructuraAbs;
+import ro.cts.composite.module.Departament;
+import ro.cts.composite.module.Sectie;
+import ro.cts.composite.module.StructuraAbs;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package ro.cts.module;
+package ro.cts.composite.module;
 
 public class Sectie extends  StructuraAbs{
 

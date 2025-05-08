@@ -1,4 +1,4 @@
-package ro.cts.module;
+package ro.cts.composite.module;
 
 public abstract class StructuraAbs {
     private String nume;
