@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/ExercitiiTest2/Adapter/Adapter.iml" filepath="$PROJECT_DIR$/ExercitiiTest2/Adapter/Adapter.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExercitiiTest1/Builder/Builder.iml" filepath="$PROJECT_DIR$/ExercitiiTest1/Builder/Builder.iml" />
       <module fileurl="file://$PROJECT_DIR$/CTS_Activitate_SimionStefan_1099.iml" filepath="$PROJECT_DIR$/CTS_Activitate_SimionStefan_1099.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExercitiiTest1/ExercitiiTest1.iml" filepath="$PROJECT_DIR$/ExercitiiTest1/ExercitiiTest1.iml" />
