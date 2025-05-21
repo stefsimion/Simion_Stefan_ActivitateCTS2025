@@ -28,6 +28,7 @@
       <module fileurl="file://$PROJECT_DIR$/ExercitiiTest1/SimpleFactory/SimpleFactory.iml" filepath="$PROJECT_DIR$/ExercitiiTest1/SimpleFactory/SimpleFactory.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExercitiiTest1/Singleton/Singleton.iml" filepath="$PROJECT_DIR$/ExercitiiTest1/Singleton/Singleton.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExercitiiTest2/Strategy/Strategy.iml" filepath="$PROJECT_DIR$/ExercitiiTest2/Strategy/Strategy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExercitiiTest2/Template/Template.iml" filepath="$PROJECT_DIR$/ExercitiiTest2/Template/Template.iml" />
     </modules>
   </component>
 </project>
