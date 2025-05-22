@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/ExercitiiTest1/Builder/Builder.iml" filepath="$PROJECT_DIR$/ExercitiiTest1/Builder/Builder.iml" />
       <module fileurl="file://$PROJECT_DIR$/CTS_Activitate_SimionStefan_1099.iml" filepath="$PROJECT_DIR$/CTS_Activitate_SimionStefan_1099.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExercitiiTest2/Chain/Chain.iml" filepath="$PROJECT_DIR$/ExercitiiTest2/Chain/Chain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExercitiiTest2/ChainF12/ChainF12.iml" filepath="$PROJECT_DIR$/ExercitiiTest2/ChainF12/ChainF12.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExercitiiTest2/Composite/Composite.iml" filepath="$PROJECT_DIR$/ExercitiiTest2/Composite/Composite.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExercitiiTest2/CompositeF6/CompositeF6.iml" filepath="$PROJECT_DIR$/ExercitiiTest2/CompositeF6/CompositeF6.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExercitiiTest2/Decorator/Decorator.iml" filepath="$PROJECT_DIR$/ExercitiiTest2/Decorator/Decorator.iml" />
@@ -19,8 +20,10 @@
       <module fileurl="file://$PROJECT_DIR$/ExercitiiTest2/Flyweight/Flyweight.iml" filepath="$PROJECT_DIR$/ExercitiiTest2/Flyweight/Flyweight.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExercitiiTest2/FlyweightF9/FlyweightF9.iml" filepath="$PROJECT_DIR$/ExercitiiTest2/FlyweightF9/FlyweightF9.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExercitiiTest2/Observer/Observer.iml" filepath="$PROJECT_DIR$/ExercitiiTest2/Observer/Observer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExercitiiTest2/ObserverF11/ObserverF11.iml" filepath="$PROJECT_DIR$/ExercitiiTest2/ObserverF11/ObserverF11.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExercitiiTest1/Prototype/Prototype.iml" filepath="$PROJECT_DIR$/ExercitiiTest1/Prototype/Prototype.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExercitiiTest2/Proxy/Proxy.iml" filepath="$PROJECT_DIR$/ExercitiiTest2/Proxy/Proxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExercitiiTest2/ProxyF8/ProxyF8.iml" filepath="$PROJECT_DIR$/ExercitiiTest2/ProxyF8/ProxyF8.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar1/Seminar1.iml" filepath="$PROJECT_DIR$/Seminar1/Seminar1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar10/Seminar10.iml" filepath="$PROJECT_DIR$/Seminar10/Seminar10.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar11/Seminar11.iml" filepath="$PROJECT_DIR$/Seminar11/Seminar11.iml" />
@@ -34,7 +37,9 @@
       <module fileurl="file://$PROJECT_DIR$/ExercitiiTest1/SimpleFactory/SimpleFactory.iml" filepath="$PROJECT_DIR$/ExercitiiTest1/SimpleFactory/SimpleFactory.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExercitiiTest1/Singleton/Singleton.iml" filepath="$PROJECT_DIR$/ExercitiiTest1/Singleton/Singleton.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExercitiiTest2/Strategy/Strategy.iml" filepath="$PROJECT_DIR$/ExercitiiTest2/Strategy/Strategy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExercitiiTest2/StrategyF10/StrategyF10.iml" filepath="$PROJECT_DIR$/ExercitiiTest2/StrategyF10/StrategyF10.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExercitiiTest2/Template/Template.iml" filepath="$PROJECT_DIR$/ExercitiiTest2/Template/Template.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExercitiiTest2/TemplateF14/TemplateF14.iml" filepath="$PROJECT_DIR$/ExercitiiTest2/TemplateF14/TemplateF14.iml" />
     </modules>
   </component>
 </project>
